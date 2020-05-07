@@ -3,6 +3,7 @@
     "description": "Aliyun Green SDK for PHP",
     "keywords": [ "aliyun", "Green", "sdk" ],
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.0"
     }
