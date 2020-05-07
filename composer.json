@@ -1,0 +1,9 @@
+{
+    "name": "maiscrm/aliyun-green-php-sdk",
+    "description": "Aliyun Green SDK for PHP",
+    "keywords": [ "aliyun", "Green", "sdk" ],
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
